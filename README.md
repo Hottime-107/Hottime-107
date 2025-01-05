@@ -1,0 +1,4 @@
+-  Hi, I’m Hottime
+-  I come from Anhui, China
+-  I am a Student
+-  I am the webmaster of DS Wiki.
